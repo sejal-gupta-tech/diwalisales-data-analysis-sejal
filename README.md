@@ -38,5 +38,8 @@ The dataset is processed, cleaned, analyzed, and visualized to extract meaningfu
 6. Insights & Conclusions
 
 ---
+How to Run this Project
+Clone this repository:
+git clone https://github.com/sejal-gupta-tech/diwalisales-data-analysis-sejal
 
 
